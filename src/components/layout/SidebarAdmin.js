@@ -7,6 +7,7 @@ const links = [
   { href: "/admin/codes", label: "Kody rabatowe" },
   { href: "/admin/raports", label: "Raporty" },
   { href: "/admin/labels", label: "Etykiety" },
+  { href: "/admin/inbox", label: "Skrzynka" },
   { href: "/admin/menu", label: "Menu" },
 ];
 
