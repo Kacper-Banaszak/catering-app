@@ -1,8 +1,8 @@
 import Link from "next/link";
 
 const links = [
-  { href: "/client", label: "Moje zamówienia" },
-  { href: "/client/menu", label: "Menu" },
+  { href: "/client", label: "Zamów teraz" },
+  { href: "/client/menu", label: "Edytuj zamówienie???" },
   { href: "/client/orders", label: "Status" },
   { href: "/client/support", label: "Wiadomości" },
   { href: "/client/review", label: "Opinie o posiłkach" },

@@ -1,4 +1,3 @@
-// app/klient/menu/page.js
 import { MenuCalendar } from "@/components/client/MenuCalendar";
 
 export default function ClientMenu() {
